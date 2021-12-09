@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+     <author>CURATOFARMS</author>
+    <version>1.0</version>
+
+    <title>
+        <en>Bakery US (Increased Speed)</en>
+        <de>Bäckerei USA (Erhöhte Geschwindigkeit)</de>
+    </title>
+
+    <description>
+         <en>In game Bakery but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Bäckerei, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+    </description>
+
+    <iconFilename>$data/placeables/lizard/productionPoints/bakeryUS/store_bakeryUS.png</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="bakeryUS.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_modded_Bakery">
+        <en>Bakery US (Increased Speed)</en>
+        <de>Bäckerei (Erhöhte Geschwindigkeit)</de>
+        </text>
+        <text name="function_Bakery">
+         <en>In game Bakery but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Bäckerei, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+        </text>
+    </l10n>
+
+
+</modDesc>
